@@ -13,7 +13,7 @@ I have gained hands-on experience in:
 - **Data Analysis**: Utilizing functions, formulas, and pivot tables to analyze datasets.
 - **Data Visualization**: Creating charts and graphs to represent data insights.
 - **Collaboration**: Sharing, commenting, and collaborating on spreadsheets in real-time.
-- **Automation**: Applying data validation and conditional formatting to streamline workflows. ([Google Sheets | Coursera](https://www.coursera.org/learn/google-sheets?utm_source=chatgpt.com))
+- **Automation**: Applying data validation and conditional formatting to streamline workflows. 
 
 ## 📁 Repository Structure
 
