@@ -5,7 +5,7 @@
 
 Welcome to my GitHub repository showcasing practical applications and projects developed during the Google Sheets certification course. This collection demonstrates my proficiency in utilizing Google Sheets for data analysis, visualization, and collaborative workflows.
 
-## 🛠️ Skills 
+##  Skills 
 
 I have gained hands-on experience in:
 
@@ -15,7 +15,7 @@ I have gained hands-on experience in:
 - **Collaboration**: Sharing, commenting, and collaborating on spreadsheets in real-time.
 - **Automation**: Applying data validation and conditional formatting to streamline workflows. 
 
-## 📁 Repository Structure
+## Repository Structure
 
 This repository contains various folders and files demonstrating different aspects of Google Sheets capabilities:
 
